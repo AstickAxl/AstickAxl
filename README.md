@@ -1,61 +1,70 @@
-## 👨‍💻 Axel López | Ingeniero | Data Scientist
-
-¡Bienvenido a mi perfil de GitHub!
-
-Ingeniero Petrolero en transición hacia el mundo de la Ciencia de Datos. Combino pensamiento analítico, enfoque operativo y habilidades en Python, SQL y visualización de datos para resolver problemas reales y generar valor con datos.
-
----
-
-### 🔍 ¿Qué puedes encontrar aquí?
-
-- 📊 Proyectos aplicados de ciencia de datos: clasificación, regresión, segmentación y dashboards interactivos.
-- 🧠 Modelos de Machine Learning enfocados en eficiencia, predicción y soporte para decisiones.
-- ⚙️ Scripts técnicos y automatizaciones para operaciones industriales, consumo energético y telecomunicaciones.
-
----
-
-### 💼 ¿Qué puedo aportar?
- 
-✔ Capacidad para transformar requerimientos de negocio en soluciones técnicas usando datos  
-✔ Formación constante en herramientas modernas de análisis: Python, SQL, Power BI, Scikit-learn  
-✔ Enfoque integral: desde el diagnóstico hasta la visualización de resultados para toma de decisiones  
-
----
-
-### 🚀 Actualmente trabajando en:
-
-- Clasificación de planes de usuario para empresa telefónica (Scikit-learn, Pandas, Matplotlib)
-- Automatización de procesos con Python en contexto operativo
-- Diseño de base de datos relacional para operaciones técnicas (SQL)
-
----
-
-### 📈 Tecnologías y herramientas
-
-`Python` • `SQL` • `DAX` • `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `Seaborn` • `Power BI` • `Streamlit` • `Jupyter` • `Git` • `GitHub`
-
----
-
-<!-- ### 📊 Estadísticas de GitHub
+<h1 align="center">👨‍💻 Axel López</h1>
+<h3 align="center">Ingeniero Petrolero | Data Scientist en formación 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axellpz&show_icons=true&theme=default&hide_title=false&count_private=true&hide=prs&include_all_commits=true" alt="Axel GitHub stats" />
+  <a href="https://www.linkedin.com/in/axel-lópez-linares/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:axellpzlin@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Ubicación-CDMX%2C%20México-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Disponibilidad-Remoto%20%7C%20Presencial%20%7C%20Híbrido-lightgrey?style=flat-square">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axellpz&layout=compact&theme=default&langs_count=8" alt="Top Langs" />
-</p>
-
---- -->
-
-### 🎯 Objetivo profesional
-
-Estoy enfocado en consolidar mi transición profesional hacia la ciencia de datos, aportando desde mi experiencia técnica y aprendiendo continuamente de los desafíos del mundo real. Busco integrarme en un entorno donde pueda seguir desarrollándome como científico de datos, participar en proyectos con impacto tangible y crecer junto a profesionales del análisis y la tecnología.
 
 ---
 
-### 📬 Conectemos
+🎓 **Ingeniero Petrolero** en transición hacia el mundo de los datos. Actualmente desarrollo proyectos enfocados en análisis predictivo, automatización de procesos, visualización de datos y desarrollo de dashboards interactivos.  
+Conecto el pensamiento técnico con el enfoque analítico para resolver problemas reales usando `Python`, `SQL`, y herramientas de visualización como `Power BI` y `Streamlit`.
 
-📎 [LinkedIn](https://www.linkedin.com/in/axel-lópez-linares/)  
-✉️ axellpzlin@gmail.com  
-🌎 Ciudad de México, disponible para trabajo presencial, remoto o híbrido
+---
+
+## 🔍 ¿Qué encontrarás aquí?
+
+- 📊 **Ciencia de datos aplicada**: Clasificación, regresión, segmentación, análisis exploratorio y dashboards.
+- 🤖 **Machine Learning**: Modelos orientados a predicción, eficiencia operativa y toma de decisiones basada en datos.
+- 🛠️ **Automatización y operaciones**: Scripts técnicos aplicados a refrigeración, energía y telecomunicaciones.
+
+---
+
+## 🧰 Stack de herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat"/>
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **Tarifas Megaline** | Análisis de rentabilidad de planes móviles prepagos. | Python, Pandas, Visualización, Estadística |
+| **VideoGame Sales Analysis** | Estudio global de tendencias de ventas de videojuegos. | EDA, Seaborn, Scipy |
+| **App Streamlit** | Dashboard web interactivo para anuncios de vehículos. | Streamlit, Plotly, Pandas |
+| **Base de Datos Operativa** | Diseño y optimización de un sistema de control técnico para servicios HVAC. | Excel → SQL (en progreso) |
+
+---
+
+## 🎯 Objetivo profesional
+
+Estoy enfocado en consolidar mi transición hacia la **Ciencia de Datos**, aplicando mi experiencia técnica para resolver problemas reales con impacto.  
+Busco integrarme a un equipo donde pueda seguir aprendiendo, aportar con análisis efectivos y crecer como profesional de datos.
+
+---
+
+## 📬 Contacto
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/axel-lópez-linares/)
+- ✉️ **axellpzlin@gmail.com**
+- 🌎 Ciudad de México – disponible para trabajo **remoto, híbrido o presencial**
+
+---
+
+> “Aprender, aplicar, escalar - esa es la fórmula”
+
+
