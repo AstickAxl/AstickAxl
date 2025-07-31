@@ -58,4 +58,4 @@ Estoy enfocado en consolidar mi transición profesional hacia la ciencia de dato
 
 📎 [LinkedIn](https://www.linkedin.com/in/axel-lópez-linares/)  
 ✉️ axellpzlin@gmail.com  
-🌎 Ciudad de México, disponible para trabajo remoto o híbrido
+🌎 Ciudad de México, disponible para trabajo presencial, remoto o híbrido
