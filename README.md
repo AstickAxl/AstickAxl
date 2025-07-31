@@ -6,7 +6,7 @@ Ingeniero Petrolero en transición hacia el mundo de la Ciencia de Datos. Combin
 
 ---
 
-### 🔍 ¿Qué puede encontrar aquí?
+### 🔍 ¿Qué puedes encontrar aquí?
 
 - 📊 Proyectos aplicados de ciencia de datos: clasificación, regresión, segmentación y dashboards interactivos.
 - 🧠 Modelos de Machine Learning enfocados en eficiencia, predicción y soporte para decisiones.
