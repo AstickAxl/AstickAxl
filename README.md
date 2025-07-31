@@ -36,7 +36,7 @@ Ingeniero Petrolero en transición hacia el mundo de la Ciencia de Datos. Combin
 
 ---
 
-### 📊 Estadísticas de GitHub
+<!-- ### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axellpz&show_icons=true&theme=default&hide_title=false&count_private=true&hide=prs&include_all_commits=true" alt="Axel GitHub stats" />
@@ -46,7 +46,7 @@ Ingeniero Petrolero en transición hacia el mundo de la Ciencia de Datos. Combin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axellpz&layout=compact&theme=default&langs_count=8" alt="Top Langs" />
 </p>
 
----
+--- -->
 
 ### 🎯 Objetivo profesional
 
